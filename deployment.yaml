@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: fastapi-app
-          image: leeh1012/fastapi-app-app:ec5c80755bed58373fcc1e19742e740546a6b12e
+          image: leeh1012/fastapi-app-app:ae604a59b0c7242d97887ba022b7848bae1e9b53
           ports:
             - containerPort: 8000
