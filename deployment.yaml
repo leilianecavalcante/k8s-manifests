@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: fastapi-app
-          image: seu-usuario/fastapi-app:sha-placeholder
+          image: leilianecavalcante/fastapi-app:181c557
           ports:
             - containerPort: 8000
